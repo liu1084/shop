@@ -1,0 +1,31 @@
+.customer-info-radio{
+    width: 20px;
+    height: 20px;
+}
+ul,li{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.change,.edit,.delete,.add-customer-info,.save,.confirm-change,.modify-mycart{
+    color: cornflowerblue;
+    cursor: pointer;
+}
+.img{
+    width: 130px;
+    height: 160px;
+    border: 1px solid;
+}
+.common-bordr{
+    border: 1px solid #dddddd;
+}
+.submit-order{
+    background-color: rosybrown;
+    font-size: 30px;
+    cursor: pointer;
+}
+.nameError,.phoneError,.addressError{
+    display: none;
+    color: red;
+}
+

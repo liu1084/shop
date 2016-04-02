@@ -1,0 +1,29 @@
+.goods_item{
+    border: 1px solid #dddddd;
+}
+
+.goods-img{
+    height: 510px;
+    width: 397px;
+}
+.plus{
+    cursor: pointer;
+}
+
+.minus{
+    cursor: pointer;
+}
+.price{
+    display: inline-block;
+    width: 120px;
+}
+
+.number{
+    display: inline-block;
+    width: 30px;
+}
+
+.name{
+    display: inline-block;
+    width: 150px;
+}

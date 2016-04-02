@@ -1,0 +1,22 @@
+.amount{
+    color: red;
+    font-weight: bold;
+}
+.img-middle{
+    width: 130px;
+    height: 160px;
+    border: 1px solid;
+}
+.goods-checked{
+    width: 20px;
+    height: 20px;
+}
+.checkAll{
+    width: 20px;
+    height: 20px;
+}
+.go-to-pay{
+    background-color: rosybrown;
+    font-size: 40px;
+    cursor: pointer;
+}

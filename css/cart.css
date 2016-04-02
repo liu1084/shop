@@ -1,0 +1,43 @@
+ul, li, span, body{
+    padding: 0;
+    margin: 0;
+}
+
+ul,li{
+    list-style: none;
+}
+
+.cart-button{
+    width: 150px;
+    height: 30px;
+}
+
+#cart{
+    width: 400px;
+    border: 1px solid #38dd5e;
+    position: absolute;
+    top: 35;
+    left: -250px;
+    z-index: 9999;
+    background-color: #ffffff;
+    display: none;
+}
+
+.common-bordr{
+    border: 1px solid #dddddd;
+}
+.img-small{
+    width: 15px;
+    height: 15px;
+    border: 1px solid;
+}
+
+.delete-goods{
+    display: inline-block;
+    width: 10px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+.go-to-myCart{
+    cursor: pointer;
+}
